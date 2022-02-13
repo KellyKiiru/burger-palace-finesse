@@ -11,3 +11,11 @@
 nav{
     display: flex
 }
+nav .navlinks{
+    display: flex;
+}
+nav .navlinks li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
